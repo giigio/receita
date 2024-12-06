@@ -2,6 +2,8 @@
 
 Essa é uma página web que apresenta a receita de um delicioso cupcake de café com chantilly. O design foi pensado para ser limpo e elegante, com um toque vintage que lembra papel envelhecido.
 
+🔗 [clique aqui para acessar](https://giigio.github.io/receita-page/)
+
 ## O que você vai encontrar aqui
 
 - **Design Responsivo**: Funciona bem em diferentes dispositivos.
